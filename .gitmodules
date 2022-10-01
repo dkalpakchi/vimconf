@@ -1,0 +1,15 @@
+[submodule "CtrlPw"]
+	path = pack/bundle/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "lightline"]
+	path = pack/bundle/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "emmet-vim"]
+	path = pack/bundle/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "MatchTag"]
+	path = pack/bundle/start/MatchTag
+	url = https://github.com/gregsexton/MatchTag.git
+[submodule "vim-css-color"]
+	path = pack/bundle/start/vim-css-color
+	url = https://github.com/ap/vim-css-color.git
