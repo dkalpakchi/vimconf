@@ -16,3 +16,6 @@
 [submodule "ctrlsf.vim"]
 	path = pack/bundle/start/ctrlsf.vim
 	url = https://github.com/dyng/ctrlsf.vim.git
+[submodule "ale"]
+	path = pack/bundle/start/ale
+	url = https://github.com/dense-analysis/ale.git
