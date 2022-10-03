@@ -13,3 +13,6 @@
 [submodule "vim-css-color"]
 	path = pack/bundle/start/vim-css-color
 	url = https://github.com/ap/vim-css-color.git
+[submodule "ctrlsf.vim"]
+	path = pack/bundle/start/ctrlsf.vim
+	url = https://github.com/dyng/ctrlsf.vim.git
